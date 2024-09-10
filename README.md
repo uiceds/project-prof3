@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/uiceds/project-prof3/tree/gh-pages) branch hosts the contents of this directory at <https://uiceds.github.io/project-prof3/>.
-The permalink for this webpage version is <https://uiceds.github.io/project-prof3/v/80bc0f462b2624d518111a4b7ba117bcc1c75c24/>.
+The permalink for this webpage version is <https://uiceds.github.io/project-prof3/v/982841c4af8f29682af4cdc8ddbe6980be53fe07/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://uiceds.github.io/project-prof3/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`80bc0f462b2624d518111a4b7ba117bcc1c75c24`](https://github.com/uiceds/project-prof3/commit/80bc0f462b2624d518111a4b7ba117bcc1c75c24).
+[`982841c4af8f29682af4cdc8ddbe6980be53fe07`](https://github.com/uiceds/project-prof3/commit/982841c4af8f29682af4cdc8ddbe6980be53fe07).
