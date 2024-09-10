@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "A Very Descriptive Title"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - markdown
@@ -8,9 +8,7 @@ keywords:
 lang: en-US
 authors:
   - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
+    name: Chris Tessum
     twitter: johndoe
     mastodon: johndoe
     mastodon-server: mastodon.social
@@ -20,7 +18,16 @@ authors:
     funders:
       - Grant XXXXXXXX
   - github: janeroe
-    name: Jane Roe
+    name: Antoher author
+    initials: JR
+    orcid: XXXX-XXXX-XXXX-XXXX
+    email: jane.roe@whatever.edu
+    affiliations:
+      - Department of Something, University of Whatever
+      - Department of Whatever, University of Something
+    corresponding: true
+  - github: janeroe
+    name: Antoher author 2
     initials: JR
     orcid: XXXX-XXXX-XXXX-XXXX
     email: jane.roe@whatever.edu
