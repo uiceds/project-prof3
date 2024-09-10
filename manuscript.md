@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: A Very Descriptive Title
 keywords:
 - markdown
 - publishing
@@ -7,8 +7,9 @@ keywords:
 lang: en-US
 date-meta: '2024-09-10'
 author-meta:
-- John Doe
-- Jane Roe
+- Chris Tessum
+- Antoher author
+- Antoher author 2
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,26 +17,29 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="A Very Descriptive Title" />
+  <meta name="citation_title" content="A Very Descriptive Title" />
+  <meta property="og:title" content="A Very Descriptive Title" />
+  <meta property="twitter:title" content="A Very Descriptive Title" />
   <meta name="dc.date" content="2024-09-10" />
   <meta name="citation_publication_date" content="2024-09-10" />
   <meta property="article:published_time" content="2024-09-10" />
-  <meta name="dc.modified" content="2024-09-10T17:23:15+00:00" />
-  <meta property="article:modified_time" content="2024-09-10T17:23:15+00:00" />
+  <meta name="dc.modified" content="2024-09-10T17:55:38+00:00" />
+  <meta property="article:modified_time" content="2024-09-10T17:55:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Chris Tessum" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="Antoher author" />
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Antoher author 2" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
@@ -45,9 +49,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/project-prof3/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/project-prof3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/project-prof3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-prof3/v/80bc0f462b2624d518111a4b7ba117bcc1c75c24/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-prof3/v/80bc0f462b2624d518111a4b7ba117bcc1c75c24/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-prof3/v/80bc0f462b2624d518111a4b7ba117bcc1c75c24/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-prof3/v/982841c4af8f29682af4cdc8ddbe6980be53fe07/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-prof3/v/982841c4af8f29682af4cdc8ddbe6980be53fe07/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-prof3/v/982841c4af8f29682af4cdc8ddbe6980be53fe07/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +73,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/project-prof3/v/80bc0f462b2624d518111a4b7ba117bcc1c75c24/))
+([permalink](https://uiceds.github.io/project-prof3/v/982841c4af8f29682af4cdc8ddbe6980be53fe07/))
 was automatically generated
-from [uiceds/project-prof3@80bc0f4](https://github.com/uiceds/project-prof3/tree/80bc0f462b2624d518111a4b7ba117bcc1c75c24)
+from [uiceds/project-prof3@982841c](https://github.com/uiceds/project-prof3/tree/982841c4af8f29682af4cdc8ddbe6980be53fe07)
 on September 10, 2024.
 </em></small>
 
@@ -81,10 +85,8 @@ on September 10, 2024.
 
 
 
-+ **John Doe**
++ **Chris Tessum**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [johndoe](https://github.com/johndoe)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
@@ -97,7 +99,18 @@ on September 10, 2024.
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**
++ **Antoher author**
+  ^[✉](#correspondence)^<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [janeroe](https://github.com/janeroe)
+    <br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
++ **Antoher author 2**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
@@ -112,7 +125,8 @@ on September 10, 2024.
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/uiceds/project-prof3/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Antoher author \<jane.roe@whatever.edu\>, 
+Antoher author 2 \<jane.roe@whatever.edu\>.
 
 
 :::
